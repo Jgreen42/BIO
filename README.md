@@ -5,6 +5,7 @@
 
 👾 Hi and Welcome To My Page 👾
 
+- :construction: [![Open Source Helpers](https://www.codetriage.com/freecodecamp/freecodecamp/badges/users.svg)](https://www.codetriage.com/freecodecamp/freecodecamp)  <-- click here to contribute adding value to code and pages 📚[click here to learn about CodeTriage](https://www.codetriage.com/what)
 - 🔭 I’m currently working on becoming a Fullstack Software Engineer also I am very excited to Go down this path.
 - 🌱 I’m currently learning ...Javascript, node.js, html, css back-end, front-end Development and react. I love Technology and Hope to learn more of all the languages over time to become a unique software engineer.
 - 
