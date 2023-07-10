@@ -7,5 +7,5 @@
 
 Website I made for morse code conversion on the fly [https://convert2morse.netlify.app/](https://convert2morse.netlify.app/)
 
-### stay up to Date with my Blog Page! [https://brainklar.netlify.app/](https://brainklar.netlify.app/)
+### Stay up to date with my Blog page! [https://brainklar.netlify.app/](https://brainklar.netlify.app/)
 
