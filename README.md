@@ -1,6 +1,5 @@
 <div align="center">
 
-![Header](https://media.giphy.com/media/AvLKmAcMntkDYPj7G2/giphy.gif)
 
 <h1>🚀 Greetings, Digital Explorer! 🚀</h1>
 
