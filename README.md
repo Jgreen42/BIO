@@ -5,8 +5,8 @@
 
 👾 👾
 
-[![Website Badge](https://img.shields.io/badge/-convert2morse.netlify.app-47CCCC?style=flat&logo=Google-Chrome&logoColor=red&link=https://convert2morse.netlify.app/)](https://convert2morse.netlify.app/)
-[![Blog Badge](https://img.shields.io/badge/-brainklar.netlify.app-FF4088?style=flat&logo=Hugo&logoColor=red&link=https://brainklar.netlify.app/)](https://brainklar.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/-convert2morse.netlify.app-47CCCC?style=flat&logo=Google-Chrome&logoColor=blue&link=https://convert2morse.netlify.app/)](https://convert2morse.netlify.app/)
+[![Blog Badge](https://img.shields.io/badge/-brainklar.netlify.app-FF4088?style=flat&logo=Hugo&logoColor=blue&link=https://brainklar.netlify.app/)](https://brainklar.netlify.app/)
 
 ![carbon (4)](https://github.com/Jgreen42/Jgreen42/assets/93264201/65926ecc-4060-4263-a95e-6ee0cbd368fa)
 
