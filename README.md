@@ -1,24 +1,52 @@
-<div align="center">
+<p align="center">
+  <img src="your-profile-image-url" alt="Your Name">
+</p>
 
+<h1 align="center">🛠️ Engineer | 🤖 Robotics Enthusiast | 🎨 Artist | 💻 Coder | 📊 Data Scientist | ☕ Entrepreneur</h1>
 
-<h1>🚀 Greetings, Digital Explorer! 🚀</h1>
+<p align="center">
+  👋 Hi there! I'm Joshua Green, a versatile Veteran with a passion for technology and art. Welcome to my GitHub profile!
+</p>
 
-👾 👾
+<p align="center">
+  <a href="https://ko-fi.com/brainklar"><img src="https://img.shields.io/badge/Support%20Me%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support Me on Ko-fi"></a>
+</p>
 
-[![Website Badge](https://img.shields.io/badge/-convert2morse.netlify.app-47CCCC?style=flat&logo=Google-Chrome&logoColor=blue&link=https://convert2morse.netlify.app/)](https://convert2morse.netlify.app/)
+## 🛠️ Engineer
 
+- 🛠️ With a background in engineering and machining, I craft unique solutions.
+- 🔧 Exploring innovative techniques and materials for projects that involve Rabbit holes.
 
-![carbon (4)](https://github.com/Jgreen42/Jgreen42/assets/93264201/65926ecc-4060-4263-a95e-6ee0cbd368fa)
+## 🤖 Robotics Enthusiast
 
-<svg width="1000" height="100" xmlns="http://www.w3.org/2000/svg">
-    <text id="animatedText" x="10" y="40" font-family="Arial" font-size="14" fill="black">
-        I believe technology is not just about coding and circuits; it's a gateway to a vast universe of abstract thoughts.
-    </text>
-    <animate 
-        xlink:href="#animatedText" 
-        attributeName="x" 
-        from="10" 
-        to="-1500" 
-        dur="30s" 
-        repeatCount="indefinite" />
-</svg>
+- 🤖 I'm currently working on exciting robotics projects that involve sensors & haptic feedback.
+- 📚 Constantly learning and staying up to date with the latest developments in the field of robotics.
+
+## 🎨 Artist
+
+- 🎨 In my free time, I'm an artist, and I love to Doodle to find and hone texture, line breakup, and sculpting into the paper versus drawing.
+- 🌟 My art often reflects my fascination with technology, Sci-fi, Horror, Fractals and geometry.
+
+## 💻 Coder
+
+- 💻 Coding is my passion, and I thrive on bringing ideas to life through software.
+- 🚀 Exploring various programming languages and creating digital solutions.
+
+## 📊 Data Scientist
+
+- 📊 Analyzing data to gain insights and make informed decisions.
+- 🧪 Experimenting with data-driven approaches to solve complex problems.
+
+## ☕ Entrepreneur
+
+- ☕ Always brewing new ideas and entrepreneurial ventures.
+- 🌐 Building businesses and embracing innovation.
+
+## 🌐 Connect with Me
+
+- 💬 Feel free to reach out to me on [Twitter](https://twitter.com/brain_klar) to discuss my diverse interests.
+- ☕ If you like what I do, consider [buying me a coffee on Ko-fi](https://ko-fi.com/brainklar) to support my work!
+
+---
+
+Thanks for visiting my GitHub profile! Let's connect and collaborate on some exciting projects. 🚀
