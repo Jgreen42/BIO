@@ -5,7 +5,7 @@
 <h1 align="center">🛠️ Engineer | 🤖 Robotics Enthusiast | 🎨 Artist | 💻 Coder | 📊 Data Scientist | ☕ Entrepreneur</h1>
 
 <p align="center">
-  👋 Hi there! I'm Joshua Green, a versatile Veteran with a passion for technology and art. Welcome to my GitHub profile!
+  👋 Hi there! I'm Joshua Green, a Veteran with a passion for technology and art. Welcome to my GitHub profile!
 </p>
 
 <p align="center">
